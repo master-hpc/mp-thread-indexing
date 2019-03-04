@@ -1,5 +1,5 @@
 # "Thread Indexing"
-Utility functions for thread indexing in CUDA
+> Utility functions for thread indexing in CUDA
 
 ## Notes
 - indexing threads globally
